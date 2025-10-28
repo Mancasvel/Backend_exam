@@ -3,7 +3,7 @@
 Esta guía está diseñada para resolver exámenes que requieren añadir nuevas entidades y funcionalidades al sistema DeliverUS siguiendo un enfoque ordenado y sistemático.
 
 ---
-
+[Pull Request Examen Resuelto](https://github.com/IISSI2-IS-2025/ExLab-Backend-Curso-Schedules/pull/10/files#diff-c9dca6352c49a52b7a3b966229023a71689065b389d43a584d791b04a2cb40dc)
 ## 📋 ÍNDICE DE REFERENCIA RÁPIDA
 
 1. [Análisis de Requisitos](#1-análisis-de-requisitos-5-min)
